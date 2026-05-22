@@ -1,0 +1,6 @@
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Core\bin\Debug\Arkhipov.Core.dll
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Core\bin\Debug\Arkhipov.Core.pdb
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Core\obj\Debug\ogannisyan.Core.csproj.AssemblyReference.cache
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Core\obj\Debug\ogannisyan.Core.csproj.CoreCompileInputs.cache
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Core\obj\Debug\Arkhipov.Core.dll
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Core\obj\Debug\Arkhipov.Core.pdb

@@ -1,0 +1,17 @@
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Ogannisyan.Calculator.csproj.AssemblyReference.cache
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\MainWindow.baml
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\App.g.cs
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Arkhipov.Calculator_MarkupCompile.cache
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Arkhipov.Calculator.g.resources
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Arkhipov.Calculator.Properties.Resources.resources
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Ogannisyan.Calculator.csproj.GenerateResource.cache
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Ogannisyan.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\bin\Debug\Arkhipov.Calculator.exe.config
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\bin\Debug\Arkhipov.Calculator.exe
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\bin\Debug\Arkhipov.Calculator.pdb
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\bin\Debug\Arkhipov.Core.dll
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\bin\Debug\Arkhipov.Core.pdb
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\ogannisy.DA873A99.Up2Date
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Arkhipov.Calculator.exe
+C:\Users\CEH9I\Desktop\Ogannisyan-Pr2-main\ogannisyan.Calculator\obj\Debug\Arkhipov.Calculator.pdb
